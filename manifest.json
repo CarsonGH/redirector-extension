@@ -1,8 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Simple Redirector",
-  "version": "1.1.1",
-  "version_name": "1.1.1 - Fixed icon transparency",
+  "version": "1.1.2",
   "description": "Simple URL redirector with wildcard support (*.example.com/*)",
   "permissions": [
     "webRequest",
